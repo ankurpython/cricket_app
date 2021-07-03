@@ -1,5 +1,5 @@
 # Cricket App
-**This Project is develop for the testing purpose.**
+**This Project is developed for the testing purpose using DRF.**
 
 **Create rest api for cricket app which perform following task:**
 1. Signup and login must be there use jwt for login only those who is login can access these api.
