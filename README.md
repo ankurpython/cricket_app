@@ -16,7 +16,10 @@
 4. After all the installation complete use the django command to runserver:   **py manage.py runserver**
 5. Open the browser: **http://localhost:8000**
 6. For the signup use the: **py manage.py createsuperuser**
-7. Again the browser provide the credentials: **http://localhost:8000/token**, 
+      > If you don't want to  create the credential, you can use admin credential.
+      >> 1. username == ankurkashyap635@gmail.com
+      >> 2. password == 1234
+7. Again open the browser provide the credentials: **http://localhost:8000/token**, 
 
 **After that JWT token will be generate, you can test by using Postmen or Swagger.**
 
