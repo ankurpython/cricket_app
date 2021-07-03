@@ -50,11 +50,11 @@
 
 ![updated-batting-score](https://user-images.githubusercontent.com/48859058/124357246-1c89bc00-dc38-11eb-813e-cd7618a2c77f.png)
 
-### 5.a. **Result Boweling field in JSON format**
+### 5.a. **Result Bowling field in JSON format**
 
 ![boweling json result](https://user-images.githubusercontent.com/48859058/124357290-64a8de80-dc38-11eb-8035-b77f3e1e1ddb.png)
 
-### 5.b. **Updation of Boweling field**
+### 5.b. **Updation of Bowling field**
 
 ![updated-bowling-over](https://user-images.githubusercontent.com/48859058/124357336-899d5180-dc38-11eb-88eb-0103f58f1a31.png)
 
